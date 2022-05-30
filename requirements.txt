@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-filter
+psycopg2-binary==2.9.1
+redis
+django_redis
+django_extensions
+django-cors-headers
+tzdata
